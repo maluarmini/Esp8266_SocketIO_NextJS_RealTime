@@ -1,0 +1,19 @@
+.header  {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  background-color: rgb(255, 255, 255);
+}
+.image {
+  width: 70px;
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: rgb(100,3,3);
+  display: flex;
+  text-align: center;
+}
